@@ -18,4 +18,12 @@ CSS: For styling the web pages to closely resemble the Amazon website.
 <br>
 <h2>Limitation</h2>
 Non-Responsive Design: The website is not responsive and is intended for desktop use only.
+<br>
+<h2>Screen-shots</h2>
+<img src="screen-shot/home.jpeg" alt="HOME INTERFACE" width="400">
+<br>
+<img src="screen-shot/products.jpeg" alt="PRODUCTS" width="400">
+<br>
+<img src="screen-shot/footer.jpeg" alt="FOOTER" width="400">
+
 
