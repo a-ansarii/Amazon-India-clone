@@ -4,8 +4,11 @@ This project is a clone of the Amazon website, built using HTML and CSS. Please 
 <h2>Features</h2>
 <br>
 1.Home Page: A replica of the Amazon home page, featuring product listings and promotional banners.
+<br>
 2.Product Listings: Detailed product pages with descriptions, prices, and images.
+<br>
 3.Shopping Cart: A basic shopping cart functionality to add and remove items.
+<br>
 4.Static Layout: The layout mimics the structure of Amazon's desktop site but does not adapt to different screen sizes.
 <br>
 <h2>Technologies Used</h2>
